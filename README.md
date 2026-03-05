@@ -13,4 +13,4 @@ This project is a simple Amazon Clone created using HTML and CSS.
 - CSS
 
 ## Author
-Vashu
+Bashu
